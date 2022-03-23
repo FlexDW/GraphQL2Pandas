@@ -1,2 +1,2 @@
-# GraphQL2Pandas
-Python GraphQL Client that converts to Pandas DataFrame
+# GraphQL to Pandas DataFrame
+Python GraphQL Client that returns output as a Pandas DataFrame
